@@ -1,0 +1,22 @@
+🏢 Cég neve: Gyorsjárat Autókölcsönző Kft.
+
+📍 Cím: 1111 Budapest, Fő utca 12.
+
+📞 Telefonszám: +36 30 123 4567
+
+📧 E-mail: info@gyorsjarat.hu
+
+🌐 Weboldal: www.gyorsjarat.hu
+
+🕒 Nyitvatartás:
+    Hétfő - Péntek: 08:00 - 18:00
+    Szombat: 09:00 - 14:00
+    Vasárnap: Zárva
+
+🚗 Bérautó kínálat:
+    - Személyautók
+    - Teherautók (kisteher, furgon)
+    - Hosszú távú bérlés
+
+ℹ️ Megjegyzés:
+Minden bérléshez érvényes személyi igazolvány, jogosítvány, és kaució szükséges. Kaució összegét az autó típusától függően határozzuk meg.
