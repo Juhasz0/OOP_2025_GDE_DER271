@@ -1,6 +1,3 @@
-LEMONDVA: Autó: Mercedes-Benz Vito, Rendszám: VTO-789, Bérlés: 2025-05-08 - 2025-05-09, Napi díj: 16000 Ft, Összesen: 32000 Ft
-Autó: Toyota Corolla, Rendszám: JKL-321, Bérlés: 2025-07-12 - 2025-07-13, Napi díj: 12500 Ft, Összesen: 25000 Ft
-LEMONDVA: Autó: Opel Vivaro, Rendszám: VVR-654, Bérlés: 2025-09-17 - 2025-09-19, Napi díj: 14500 Ft, Összesen: 43500 Ft
-LEMONDVA: Autó: Ford Transit, Rendszám: TRN-456, Bérlés: 2025-08-11 - 2025-08-11, Napi díj: 14000 Ft, Összesen: 14000 Ft
-Autó: Opel Vivaro, Rendszám: VVR-654, Bérlés: 2025-04-29 - 2025-04-29, Napi díj: 14500 Ft, Összesen: 14500 Ft
-Autó: Ford Focus, Rendszám: DEF-456, Bérlés: 2025-06-11 - 2025-06-12, Napi díj: 11500 Ft, Összesen: 23000 Ft
+Autó: Opel Astra, Rendszám: ABC-123, Bérlés: 2025-05-14 - 2025-05-15, Napi díj: 12000 Ft, Összesen: 24000 Ft
+Autó: Volkswagen Transporter, Rendszám: TPR-123, Bérlés: 2025-05-16 - 2025-05-17, Napi díj: 15000 Ft, Összesen: 30000 Ft
+Autó: Ford Focus, Rendszám: DEF-456, Bérlés: 2025-05-29 - 2025-05-30, Napi díj: 11500 Ft, Összesen: 23000 Ft
